@@ -5,12 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.23/css/uikit.min.css"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.3.0/viewer.min.css"/>
-
     <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.23/js/uikit.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.23/js/uikit-icons.min.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.3.0/viewer.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <style>
       
 
@@ -655,8 +653,20 @@ Lab-07
   <div class="uk-card uk-card-body uk-background-default">
     <h3 class="uk-card-title"> <a href="./paneltalk/static-site-gen.pdf"> This is a Panel Talk Object   </a></h3>
     <hr>
-      <embed src="./paneltalk/static-site-gen.pdf?#toolbar=1&navpanes=1&scrollbar=1" type="application/pdf" width="100%" height="620px"></embed>
+      <input type="hidden" class="inputforfocus">
+      <embed id="pdfembed" src="./paneltalk/static-site-gen.pdf?#toolbar=1&navpanes=1&scrollbar=1" type="application/pdf" width="100%" height="620px"></embed>
   </div>
+
+  <script>
+
+    $(window).on('load', function(){
+      $("#pdfembed").on('load', function () { setTimeout(function () { $(".inputforfocus").focus(); }, 100); });
+    });
+
+    // $(document).ready(function () {
+    //   $("#pdfembed").load(function () { setTimeout(function () { $(".inputforfocus").focus(); }, 100); });
+    // });
+  </script
 
     <br>
   
