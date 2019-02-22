@@ -6,7 +6,11 @@
   
   "type" : "lab",
   "title" : "Lab-07",
-  "folder" : "book-a",
+  
+    
+  
+  "folder" : "/book-a",
+  
   
     "link" : "book-a/index.html",
   
