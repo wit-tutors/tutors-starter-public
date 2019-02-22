@@ -6,21 +6,18 @@
   
   "type" : "lab",
   "title" : "Lab-05",
-  
-    
-  
-  
-    "folder" : "book-a",
-  
-  
-  
-    "link" : "book-a/index.html",
-  
   "img" : "book-a/img/main.jpg",
   "videoid" : "none",
   "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
   "properties" : {},
-  "los": [  ]
+    
+      "folder" : "book-a",
+    
+    
+      "link" : "book-a/index.html",
+    
+  "los": [
+     ]
 ,
   "chapters" : [
   
