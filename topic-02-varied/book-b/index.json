@@ -9,7 +9,9 @@
   
     
   
-  "folder" : "/book-b",
+  
+    "folder" : "book-b",
+  
   
   
     "link" : "book-b/index.html",

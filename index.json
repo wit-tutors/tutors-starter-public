@@ -1,7 +1,7 @@
 {
   "type": "course",
   "title": " Course Title ",
-  "folder": "/tutors-starter",
+  "folder": "tutors-starter",
   "link": "tutors-starter/index.html",
   "img": "tutors-starter/course.jpg",
   "videoid": "",
@@ -19,7 +19,7 @@
     {
       "type": "topic",
       "title": " Simple  ",
-      "folder": "/topic-01-simple",
+      "folder": "topic-01-simple",
       "link": "topic-01-simple/index.html",
       "img": "topic-01-simple/topic.jpg",
       "videoid": "",
@@ -64,7 +64,7 @@
     {
       "type": "topic",
       "title": " Varied ",
-      "folder": "/topic-02-varied",
+      "folder": "topic-02-varied",
       "link": "topic-02-varied/index.html",
       "img": "topic-02-varied/topic.jpg",
       "videoid": "",
@@ -175,7 +175,7 @@
     {
       "type": "topic",
       "title": " Media ",
-      "folder": "/topic-03-media",
+      "folder": "topic-03-media",
       "link": "topic-03-media/index.html",
       "img": "topic-03-media/topic.jpg",
       "videoid": "",
@@ -231,7 +231,7 @@
     {
       "type": "topic",
       "title": " Units ",
-      "folder": "/topic-04-units",
+      "folder": "topic-04-units",
       "link": "topic-04-units/index.html",
       "img": "topic-04-units/topic.jpg",
       "videoid": "",
