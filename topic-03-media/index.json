@@ -1,0 +1,117 @@
+
+
+
+  {
+  
+  
+  "type" : "topic",
+  "title" : " Media ",
+  "img" : "topic-03-media/topic.jpg",
+  "videoid" : "",
+  "objectives" : "<p>Include 2 type of videos</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-03-media",
+    
+    
+      "link" : "topic-03-media/index.html",
+    
+  "los": [
+     {
+      
+        
+    
+  "type" : "talk",
+  "title" : "Lecture 5 ",
+  "img" : "topic-03-media/talk-1/todo-review.jpg",
+  "videoid" : "BpwNfye_0Sg",
+  "objectives" : "<p>This is a slide deck + an associated video</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-03-media/talk-1",
+    
+    
+      "link" : "topic-03-media/talk-1/todo-review.pdf",
+    
+  "los": [
+     ]
+
+      
+    } ,
+   {
+      
+        
+    
+  "type" : "lab",
+  "title" : "Lab-04",
+  "img" : "topic-03-media/book-a/img/main.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-03-media/book-a",
+    
+    
+      "link" : "topic-03-media/book-a/index.html",
+    
+  "los": [
+     ]
+
+      
+    } ,
+   {
+      
+        
+    
+  "type" : "panelvideo",
+  "title" : "12: Deployment ",
+  "img" : "topic-03-media/panelvideo/",
+  "videoid" : "KFzl-Nhe1vs",
+  "objectives" : "<p>12: Deployment</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-03-media/panelvideo",
+    
+    
+      "link" : "topic-03-media/panelvideo/KFzl-Nhe1vs",
+    
+  "los": [
+     ]
+
+      
+    } ,
+   {
+      
+        
+    
+  "type" : "archive",
+  "title" : "Resource I ",
+  "img" : "topic-03-media/archive/archive.jpg",
+  "videoid" : "",
+  "objectives" : "<p>This is not a pdf link, but a zipped archive. If it is selected the archive will be downloaded. Use this to distributed general resources.</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-03-media/archive",
+    
+    
+      "link" : "topic-03-media/archive/archive.zip",
+    
+  "los": [
+     ]
+
+      
+    } 
+   ]
+
+  }
+

@@ -9,7 +9,9 @@
   "img" : "tutors-starter/course.jpg",
   "videoid" : "",
   "objectives" : "<p>A short description of the course. Normally this will not be visible, unless the course is aggregated into a portfolio of modules</p>",
-  "properties" : {"highlightstyle":"railscasts","slack":"https://tutors-ts-group.slack.com/messages/CCKS0HR0Q","moodle":"https://moodle.wit.ie/course/view.php?id=118143&section=3","youtube":"https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo","courseurl":"https://wit-tutors.github.io/tutors-starter-public/","credits":"Your Name Here, WIT"},
+    
+      "properties" : {"highlightstyle":"railscasts","slack":"https://tutors-ts-group.slack.com/messages/CCKS0HR0Q","moodle":"https://moodle.wit.ie/course/view.php?id=118143&section=3","youtube":"https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo","courseurl":"https://wit-tutors.github.io/tutors-starter-public/","credits":"Your Name Here, WIT"},
+    
     
       "folder" : "tutors-starter",
     
@@ -20,647 +22,60 @@
      ]
 ,
   "topics" : [  {
-  
-  
   "type" : "topic",
   "title" : " Simple  ",
   "img" : "topic-01-simple/topic.jpg",
   "videoid" : "",
   "objectives" : "<p>Just lectures and labs</p>",
-  "properties" : {},
-    
-      "folder" : "topic-01-simple",
-    
-    
-      "link" : "topic-01-simple/index.html",
-    
-  "los": [
-     {
-      
-        
-    
-  "type" : "talk",
-  "title" : "Lecture 1 ",
-  "img" : "topic-01-simple/talk-1/talk-1.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-01-simple/talk-1",
-    
-    
-      "link" : "topic-01-simple/talk-1/talk-1.pdf",
-    
-  "los": [
-     ]
+  
+    "properties" : {},
+  
+  "folder" : "topic-01-simple",
+  "link" : "topic-01-simple/index.html"
 
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "talk",
-  "title" : "Lecture 2 ",
-  "img" : "topic-01-simple/talk-2/talk-2.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-01-simple/talk-2",
-    
-    
-      "link" : "topic-01-simple/talk-2/talk-2.pdf",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "lab",
-  "title" : "Lab-01",
-  "img" : "topic-01-simple/book-a/img/main.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-01-simple/book-a",
-    
-    
-      "link" : "topic-01-simple/book-a/index.html",
-    
-  "los": [
-     ]
-
-      
-    } 
-   ]
-
+  
   },
  {
-  
-  
   "type" : "topic",
   "title" : " Varied ",
   "img" : "topic-02-varied/topic.jpg",
   "videoid" : "",
   "objectives" : "<p>Lectures &amp; labs + archive and github repos</p>",
-  "properties" : {},
-    
-      "folder" : "topic-02-varied",
-    
-    
-      "link" : "topic-02-varied/index.html",
-    
-  "los": [
-     {
-      
-        
-    
-  "type" : "talk",
-  "title" : "Lecture 3 ",
-  "img" : "topic-02-varied/talk-1/talk-1.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-02-varied/talk-1",
-    
-    
-      "link" : "topic-02-varied/talk-1/talk-1.pdf",
-    
-  "los": [
-     ]
+  
+    "properties" : {},
+  
+  "folder" : "topic-02-varied",
+  "link" : "topic-02-varied/index.html"
 
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "talk",
-  "title" : "Lecture 4 ",
-  "img" : "topic-02-varied/talk-2/talk-2.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-02-varied/talk-2",
-    
-    
-      "link" : "topic-02-varied/talk-2/talk-2.pdf",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "lab",
-  "title" : "Lab-02",
-  "img" : "topic-02-varied/book-a/img/main.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-02-varied/book-a",
-    
-    
-      "link" : "topic-02-varied/book-a/index.html",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "lab",
-  "title" : "Lab-02",
-  "img" : "topic-02-varied/book-b/img/main.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons. T</p>",
-  "properties" : {},
-    
-      "folder" : "topic-02-varied/book-b",
-    
-    
-      "link" : "topic-02-varied/book-b/index.html",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "paneltalk",
-  "title" : "This is a Panel Talk Object ",
-  "img" : "topic-02-varied/paneltalk/static-site-gen.png",
-  "videoid" : "none",
-  "objectives" : "<p>This is a Panel Talk Object</p>",
-  "properties" : {},
-    
-      "folder" : "topic-02-varied/paneltalk",
-    
-    
-      "link" : "topic-02-varied/paneltalk/static-site-gen.pdf",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "archive",
-  "title" : "Resource I ",
-  "img" : "topic-02-varied/archive/archive.jpg",
-  "videoid" : "",
-  "objectives" : "<p>This is not a pdf link, but a zipped archive. If it is selected the archive will be downloaded. Use this to distributed general resources.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-02-varied/archive",
-    
-    
-      "link" : "topic-02-varied/archive/archive.zip",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "github",
-  "title" : "Github Repo  1 ",
-  "img" : "topic-02-varied/github-1-template-1/github.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A repo in github that captures important lessons from this topic</p>",
-  "properties" : {},
-    
-      "folder" : "topic-02-varied/github-1-template-1",
-    
-    
-      "link" : "https://github.com/wit-ict-summer-school-2017/glitch-template-1.git",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "github",
-  "title" : "Github Repo  2 ",
-  "img" : "topic-02-varied/github-2-playlist-1/github.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>Another repo in github that captures important lessons from this topic</p>",
-  "properties" : {},
-    
-      "folder" : "topic-02-varied/github-2-playlist-1",
-    
-    
-      "link" : "https://github.com/wit-ict-summer-school-2017/glitch-template-1.git",
-    
-  "los": [
-     ]
-
-      
-    } 
-   ]
-
+  
   },
  {
-  
-  
   "type" : "topic",
   "title" : " Media ",
   "img" : "topic-03-media/topic.jpg",
   "videoid" : "",
   "objectives" : "<p>Include 2 type of videos</p>",
-  "properties" : {},
-    
-      "folder" : "topic-03-media",
-    
-    
-      "link" : "topic-03-media/index.html",
-    
-  "los": [
-     {
-      
-        
-    
-  "type" : "talk",
-  "title" : "Lecture 5 ",
-  "img" : "topic-03-media/talk-1/todo-review.jpg",
-  "videoid" : "BpwNfye_0Sg",
-  "objectives" : "<p>This is a slide deck + an associated video</p>",
-  "properties" : {},
-    
-      "folder" : "topic-03-media/talk-1",
-    
-    
-      "link" : "topic-03-media/talk-1/todo-review.pdf",
-    
-  "los": [
-     ]
+  
+    "properties" : {},
+  
+  "folder" : "topic-03-media",
+  "link" : "topic-03-media/index.html"
 
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "lab",
-  "title" : "Lab-04",
-  "img" : "topic-03-media/book-a/img/main.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-03-media/book-a",
-    
-    
-      "link" : "topic-03-media/book-a/index.html",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "panelvideo",
-  "title" : "12: Deployment ",
-  "img" : "topic-03-media/panelvideo/",
-  "videoid" : "KFzl-Nhe1vs",
-  "objectives" : "<p>12: Deployment</p>",
-  "properties" : {},
-    
-      "folder" : "topic-03-media/panelvideo",
-    
-    
-      "link" : "topic-03-media/panelvideo/KFzl-Nhe1vs",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "archive",
-  "title" : "Resource I ",
-  "img" : "topic-03-media/archive/archive.jpg",
-  "videoid" : "",
-  "objectives" : "<p>This is not a pdf link, but a zipped archive. If it is selected the archive will be downloaded. Use this to distributed general resources.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-03-media/archive",
-    
-    
-      "link" : "topic-03-media/archive/archive.zip",
-    
-  "los": [
-     ]
-
-      
-    } 
-   ]
-
+  
   },
  {
-  
-  
   "type" : "topic",
   "title" : " Units ",
   "img" : "topic-04-units/topic.jpg",
   "videoid" : "",
   "objectives" : "<p>This topic has 3 units - each unit has lectures + lab</p>",
-  "properties" : {},
-    
-      "folder" : "topic-04-units",
-    
-    
-      "link" : "topic-04-units/index.html",
-    
-  "los": [
-     {
-      
-        
-    
-  "type" : "unit",
-  "title" : "Unit 1 Title ",
-  "img" : "topic-04-units/unit-1/talk-1/talk-1.jpg",
-  "videoid" : "",
-  "objectives" : "",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-1",
-    
-    
-      "link" : "topic-04-units/unit-1/index.html",
-    
-  "los": [
-     {
-      
-        
-    
-  "type" : "talk",
-  "title" : "Lecture 6 ",
-  "img" : "topic-04-units/unit-1/talk-1/talk-1.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-1/talk-1",
-    
-    
-      "link" : "topic-04-units/unit-1/talk-1/talk-1.pdf",
-    
-  "los": [
-     ]
+  
+    "properties" : {},
+  
+  "folder" : "topic-04-units",
+  "link" : "topic-04-units/index.html"
 
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "talk",
-  "title" : "Lecture 7 ",
-  "img" : "topic-04-units/unit-1/talk-2/talk-2.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-1/talk-2",
-    
-    
-      "link" : "topic-04-units/unit-1/talk-2/talk-2.pdf",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "lab",
-  "title" : "Lab-05",
-  "img" : "topic-04-units/unit-1/book-a/img/main.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-1/book-a",
-    
-    
-      "link" : "topic-04-units/unit-1/book-a/index.html",
-    
-  "los": [
-     ]
-
-      
-    } 
-   ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "unit",
-  "title" : "Unit 2 Title ",
-  "img" : "topic-04-units/unit-2/talk-1/talk-1.jpg",
-  "videoid" : "",
-  "objectives" : "",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-2",
-    
-    
-      "link" : "topic-04-units/unit-2/index.html",
-    
-  "los": [
-     {
-      
-        
-    
-  "type" : "talk",
-  "title" : "Lecture 8 ",
-  "img" : "topic-04-units/unit-2/talk-1/talk-1.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-2/talk-1",
-    
-    
-      "link" : "topic-04-units/unit-2/talk-1/talk-1.pdf",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "talk",
-  "title" : "Lecture 9 ",
-  "img" : "topic-04-units/unit-2/talk-2/talk-2.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-2/talk-2",
-    
-    
-      "link" : "topic-04-units/unit-2/talk-2/talk-2.pdf",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "lab",
-  "title" : "Lab-06",
-  "img" : "topic-04-units/unit-2/book-a/img/main.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-2/book-a",
-    
-    
-      "link" : "topic-04-units/unit-2/book-a/index.html",
-    
-  "los": [
-     ]
-
-      
-    } 
-   ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "unit",
-  "title" : "Unit 3 Title ",
-  "img" : "topic-04-units/unit-3/talk-1/talk-1.jpg",
-  "videoid" : "",
-  "objectives" : "",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-3",
-    
-    
-      "link" : "topic-04-units/unit-3/index.html",
-    
-  "los": [
-     {
-      
-        
-    
-  "type" : "talk",
-  "title" : "Lecture 10 ",
-  "img" : "topic-04-units/unit-3/talk-1/talk-1.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-3/talk-1",
-    
-    
-      "link" : "topic-04-units/unit-3/talk-1/talk-1.pdf",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "talk",
-  "title" : "Lecture 11 ",
-  "img" : "topic-04-units/unit-3/talk-2/talk-2.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-3/talk-2",
-    
-    
-      "link" : "topic-04-units/unit-3/talk-2/talk-2.pdf",
-    
-  "los": [
-     ]
-
-      
-    } ,
-   {
-      
-        
-    
-  "type" : "lab",
-  "title" : "Lab-07",
-  "img" : "topic-04-units/unit-3/book-a/img/main.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-  "properties" : {},
-    
-      "folder" : "topic-04-units/unit-3/book-a",
-    
-    
-      "link" : "topic-04-units/unit-3/book-a/index.html",
-    
-  "los": [
-     ]
-
-      
-    } 
-   ]
-
-      
-    } 
-   ]
-
+  
   }
  ]
   }

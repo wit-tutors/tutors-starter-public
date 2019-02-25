@@ -9,7 +9,9 @@
   "img" : "book-a/img/main.jpg",
   "videoid" : "none",
   "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-  "properties" : {},
+    
+      "properties" : {},
+    
     
       "folder" : "book-a",
     
@@ -437,7 +439,7 @@
      
       "<p>More Code Block examples</p>" ,
      
-      "<pre><code class='lang-java'>  publish(path, course) {" ,
+      "<pre><code>  publish(path, course) {" ,
      
       "    const basePath = &#39;../&#39; + path + &#39;/&#39; + this.folder;" ,
      
@@ -473,7 +475,7 @@
      
       "<p>This was autodetected as javascript. This one is html:</p>" ,
      
-      "<pre><code class='lang-html'>&lt;div class=&quot;ui segment pushable&quot;&gt;" ,
+      "<pre><code>&lt;div class=&quot;ui segment pushable&quot;&gt;" ,
      
       "  &lt;div class=&quot;ui inverted labeled icon left inline vertical sidebar menu&quot;&gt;" ,
      
@@ -560,7 +562,7 @@
     
       "" ,
     
-      "~~~java" ,
+      "~~~" ,
     
       "  publish(path, course) {" ,
     
@@ -604,7 +606,7 @@
     
       "" ,
     
-      "~~~html" ,
+      "~~~" ,
     
       "<div class='ui segment pushable'>" ,
     

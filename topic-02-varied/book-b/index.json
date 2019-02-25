@@ -9,7 +9,9 @@
   "img" : "book-b/img/main.jpg",
   "videoid" : "none",
   "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons. T</p>",
-  "properties" : {},
+    
+      "properties" : {},
+    
     
       "folder" : "book-b",
     

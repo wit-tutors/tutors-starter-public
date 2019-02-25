@@ -1,0 +1,232 @@
+
+
+
+  {
+  
+  
+  "type" : "topic",
+  "title" : " Varied ",
+  "img" : "topic-02-varied/topic.jpg",
+  "videoid" : "",
+  "objectives" : "<p>Lectures &amp; labs + archive and github repos</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-02-varied",
+    
+    
+      "link" : "topic-02-varied/index.html",
+    
+  "los": [
+     {
+      
+        
+    
+  "type" : "talk",
+  "title" : "Lecture 3 ",
+  "img" : "topic-02-varied/talk-1/talk-1.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-02-varied/talk-1",
+    
+    
+      "link" : "topic-02-varied/talk-1/talk-1.pdf",
+    
+  "los": [
+     ]
+
+      
+    } ,
+   {
+      
+        
+    
+  "type" : "talk",
+  "title" : "Lecture 4 ",
+  "img" : "topic-02-varied/talk-2/talk-2.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-02-varied/talk-2",
+    
+    
+      "link" : "topic-02-varied/talk-2/talk-2.pdf",
+    
+  "los": [
+     ]
+
+      
+    } ,
+   {
+      
+        
+    
+  "type" : "lab",
+  "title" : "Lab-02",
+  "img" : "topic-02-varied/book-a/img/main.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-02-varied/book-a",
+    
+    
+      "link" : "topic-02-varied/book-a/index.html",
+    
+  "los": [
+     ]
+
+      
+    } ,
+   {
+      
+        
+    
+  "type" : "lab",
+  "title" : "Lab-02",
+  "img" : "topic-02-varied/book-b/img/main.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons. T</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-02-varied/book-b",
+    
+    
+      "link" : "topic-02-varied/book-b/index.html",
+    
+  "los": [
+     ]
+
+      
+    } ,
+   {
+      
+        
+    
+  "type" : "paneltalk",
+  "title" : "This is a Panel Talk Object ",
+  "img" : "topic-02-varied/paneltalk/static-site-gen.png",
+  "videoid" : "none",
+  "objectives" : "<p>This is a Panel Talk Object</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-02-varied/paneltalk",
+    
+    
+      "link" : "topic-02-varied/paneltalk/static-site-gen.pdf",
+    
+  "los": [
+     ]
+
+      
+    } ,
+   {
+      
+        
+    
+  "type" : "archive",
+  "title" : "Resource I ",
+  "img" : "topic-02-varied/archive/archive.jpg",
+  "videoid" : "",
+  "objectives" : "<p>This is not a pdf link, but a zipped archive. If it is selected the archive will be downloaded. Use this to distributed general resources.</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-02-varied/archive",
+    
+    
+      "link" : "topic-02-varied/archive/archive.zip",
+    
+  "los": [
+     ]
+
+      
+    } ,
+   {
+      
+        
+    
+  "type" : "github",
+  "title" : "Github Repo  1 ",
+  "img" : "topic-02-varied/github-1-template-1/github.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A repo in github that captures important lessons from this topic</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-02-varied/github-1-template-1",
+    
+    
+      "link" : "https://github.com/wit-ict-summer-school-2017/glitch-template-1.git",
+    
+  "los": [
+     ]
+
+      
+    } ,
+   {
+      
+        
+    
+  "type" : "github",
+  "title" : "Github Repo  2 ",
+  "img" : "topic-02-varied/github-2-playlist-1/github.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>Another repo in github that captures important lessons from this topic</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-02-varied/github-2-playlist-1",
+    
+    
+      "link" : "https://github.com/wit-ict-summer-school-2017/glitch-template-1.git",
+    
+  "los": [
+     ]
+
+      
+    } ,
+   {
+      
+        
+    
+  "type" : "web",
+  "title" : "Web Site ",
+  "img" : "topic-02-varied/web-1/web.png",
+  "videoid" : "",
+  "objectives" : "<p>A web site of interest</p>",
+    
+      "properties" : {},
+    
+    
+      "folder" : "topic-02-varied/web-1",
+    
+    
+      "link" : "https://apiumhub.com/tech-blog-barcelona/definition-of-done-examples-software-projects/",
+    
+  "los": [
+     ]
+
+      
+    } 
+   ]
+
+  }
+
