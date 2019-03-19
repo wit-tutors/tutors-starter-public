@@ -6,7 +6,7 @@
   
   "type" : "topic",
   "title" : " Units ",
-  "img" : "topic-04-units/topic.jpg",
+  "img" : "topic.jpg",
   "videoid" : "",
   "objectives" : "<p>This topic has 3 units - each unit has lectures + lab</p>",
     
@@ -16,7 +16,7 @@
       "folder" : "topic-04-units",
     
     
-      "link" : "topic-04-units/index.html",
+      "link" : "index.html",
     
   "los": [
      {
@@ -25,7 +25,7 @@
   
   "type" : "unit",
   "title" : "Unit 1 Title ",
-  "img" : "unit-1/talk-1/talk-1.jpg",
+  "img" : "talk-1/talk-1.jpg",
   "videoid" : "",
   "objectives" : "",
     
@@ -35,7 +35,7 @@
       "folder" : "unit-1",
     
     
-      "link" : "unit-1/index.html",
+      "link" : "index.html",
     
   "los": [
      {
@@ -44,7 +44,7 @@
     
   "type" : "talk",
   "title" : "Lecture 6 ",
-  "img" : "unit-1/talk-1/talk-1.jpg",
+  "img" : "talk-1.jpg",
   "videoid" : "none",
   "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
     
@@ -54,7 +54,7 @@
       "folder" : "unit-1/talk-1",
     
     
-      "link" : "unit-1/talk-1/talk-1.pdf",
+      "link" : "talk-1.pdf",
     
   "los": [
      ]
@@ -67,7 +67,7 @@
     
   "type" : "talk",
   "title" : "Lecture 7 ",
-  "img" : "unit-1/talk-2/talk-2.jpg",
+  "img" : "talk-2.jpg",
   "videoid" : "none",
   "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
     
@@ -77,7 +77,7 @@
       "folder" : "unit-1/talk-2",
     
     
-      "link" : "unit-1/talk-2/talk-2.pdf",
+      "link" : "talk-2.pdf",
     
   "los": [
      ]
@@ -90,7 +90,7 @@
     
   "type" : "lab",
   "title" : "Lab-05",
-  "img" : "unit-1/book-a/img/main.jpg",
+  "img" : "img/main.jpg",
   "videoid" : "none",
   "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
     
@@ -100,7 +100,7 @@
       "folder" : "unit-1/book-a",
     
     
-      "link" : "unit-1/book-a/index.html",
+      "link" : "index.html",
     
   "los": [
      ]
@@ -117,7 +117,7 @@
   
   "type" : "unit",
   "title" : "Unit 2 Title ",
-  "img" : "unit-2/talk-1/talk-1.jpg",
+  "img" : "talk-1/talk-1.jpg",
   "videoid" : "",
   "objectives" : "",
     
@@ -127,7 +127,7 @@
       "folder" : "unit-2",
     
     
-      "link" : "unit-2/index.html",
+      "link" : "index.html",
     
   "los": [
      {
@@ -136,7 +136,7 @@
     
   "type" : "talk",
   "title" : "Lecture 8 ",
-  "img" : "unit-2/talk-1/talk-1.jpg",
+  "img" : "talk-1.jpg",
   "videoid" : "none",
   "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
     
@@ -146,7 +146,7 @@
       "folder" : "unit-2/talk-1",
     
     
-      "link" : "unit-2/talk-1/talk-1.pdf",
+      "link" : "talk-1.pdf",
     
   "los": [
      ]
@@ -159,7 +159,7 @@
     
   "type" : "talk",
   "title" : "Lecture 9 ",
-  "img" : "unit-2/talk-2/talk-2.jpg",
+  "img" : "talk-2.jpg",
   "videoid" : "none",
   "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
     
@@ -169,7 +169,7 @@
       "folder" : "unit-2/talk-2",
     
     
-      "link" : "unit-2/talk-2/talk-2.pdf",
+      "link" : "talk-2.pdf",
     
   "los": [
      ]
@@ -182,7 +182,7 @@
     
   "type" : "lab",
   "title" : "Lab-06",
-  "img" : "unit-2/book-a/img/main.jpg",
+  "img" : "img/main.jpg",
   "videoid" : "none",
   "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
     
@@ -192,7 +192,7 @@
       "folder" : "unit-2/book-a",
     
     
-      "link" : "unit-2/book-a/index.html",
+      "link" : "index.html",
     
   "los": [
      ]
@@ -209,7 +209,7 @@
   
   "type" : "unit",
   "title" : "Unit 3 Title ",
-  "img" : "unit-3/talk-1/talk-1.jpg",
+  "img" : "talk-1/talk-1.jpg",
   "videoid" : "",
   "objectives" : "",
     
@@ -219,7 +219,7 @@
       "folder" : "unit-3",
     
     
-      "link" : "unit-3/index.html",
+      "link" : "index.html",
     
   "los": [
      {
@@ -228,7 +228,7 @@
     
   "type" : "talk",
   "title" : "Lecture 10 ",
-  "img" : "unit-3/talk-1/talk-1.jpg",
+  "img" : "talk-1.jpg",
   "videoid" : "none",
   "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
     
@@ -238,7 +238,7 @@
       "folder" : "unit-3/talk-1",
     
     
-      "link" : "unit-3/talk-1/talk-1.pdf",
+      "link" : "talk-1.pdf",
     
   "los": [
      ]
@@ -251,7 +251,7 @@
     
   "type" : "talk",
   "title" : "Lecture 11 ",
-  "img" : "unit-3/talk-2/talk-2.jpg",
+  "img" : "talk-2.jpg",
   "videoid" : "none",
   "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
     
@@ -261,7 +261,7 @@
       "folder" : "unit-3/talk-2",
     
     
-      "link" : "unit-3/talk-2/talk-2.pdf",
+      "link" : "talk-2.pdf",
     
   "los": [
      ]
@@ -274,7 +274,7 @@
     
   "type" : "lab",
   "title" : "Lab-07",
-  "img" : "unit-3/book-a/img/main.jpg",
+  "img" : "img/main.jpg",
   "videoid" : "none",
   "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
     
@@ -284,7 +284,7 @@
       "folder" : "unit-3/book-a",
     
     
-      "link" : "unit-3/book-a/index.html",
+      "link" : "index.html",
     
   "los": [
      ]
