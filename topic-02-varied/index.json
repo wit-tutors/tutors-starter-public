@@ -6,7 +6,7 @@
   
   "type" : "topic",
   "title" : " Varied ",
-  "img" : "topic-02-varied/topic.jpg",
+  "img" : "topic.jpg",
   "videoid" : "",
   "objectives" : "<p>Lectures &amp; labs + archive and github repos</p>",
     
@@ -16,7 +16,7 @@
       "folder" : "topic-02-varied",
     
     
-      "link" : "topic-02-varied/index.html",
+      "link" : "index.html",
     
   "los": [
      {
@@ -25,7 +25,7 @@
   
   "type" : "talk",
   "title" : "Lecture 3 ",
-  "img" : "talk-1/talk-1.jpg",
+  "img" : "talk-1.jpg",
   "videoid" : "none",
   "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
     
@@ -35,7 +35,7 @@
       "folder" : "talk-1",
     
     
-      "link" : "talk-1/talk-1.pdf",
+      "link" : "talk-1.pdf",
     
   "los": [
      ]
@@ -48,7 +48,7 @@
   
   "type" : "talk",
   "title" : "Lecture 4 ",
-  "img" : "talk-2/talk-2.jpg",
+  "img" : "talk-2.jpg",
   "videoid" : "none",
   "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
     
@@ -58,7 +58,7 @@
       "folder" : "talk-2",
     
     
-      "link" : "talk-2/talk-2.pdf",
+      "link" : "talk-2.pdf",
     
   "los": [
      ]
@@ -71,7 +71,7 @@
   
   "type" : "lab",
   "title" : "Lab-02",
-  "img" : "book-a/img/main.jpg",
+  "img" : "img/main.jpg",
   "videoid" : "none",
   "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
     
@@ -81,7 +81,7 @@
       "folder" : "book-a",
     
     
-      "link" : "book-a/index.html",
+      "link" : "index.html",
     
   "los": [
      ]
@@ -94,7 +94,7 @@
   
   "type" : "lab",
   "title" : "Lab-02",
-  "img" : "book-b/img/main.jpg",
+  "img" : "img/main.jpg",
   "videoid" : "none",
   "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons. T</p>",
     
@@ -104,7 +104,7 @@
       "folder" : "book-b",
     
     
-      "link" : "book-b/index.html",
+      "link" : "index.html",
     
   "los": [
      ]
@@ -117,7 +117,7 @@
   
   "type" : "paneltalk",
   "title" : "This is a Panel Talk Object ",
-  "img" : "paneltalk/static-site-gen.png",
+  "img" : "static-site-gen.png",
   "videoid" : "none",
   "objectives" : "<p>This is a Panel Talk Object</p>",
     
@@ -127,7 +127,7 @@
       "folder" : "paneltalk",
     
     
-      "link" : "paneltalk/static-site-gen.pdf",
+      "link" : "static-site-gen.pdf",
     
   "los": [
      ]
@@ -140,7 +140,7 @@
   
   "type" : "archive",
   "title" : "Resource I ",
-  "img" : "archive/archive.jpg",
+  "img" : "archive.jpg",
   "videoid" : "",
   "objectives" : "<p>This is not a pdf link, but a zipped archive. If it is selected the archive will be downloaded. Use this to distributed general resources.</p>",
     
@@ -150,7 +150,7 @@
       "folder" : "archive",
     
     
-      "link" : "archive/archive.zip",
+      "link" : "archive.zip",
     
   "los": [
      ]
@@ -163,7 +163,7 @@
   
   "type" : "github",
   "title" : "Github Repo  1 ",
-  "img" : "github-1-template-1/github.jpg",
+  "img" : "github.jpg",
   "videoid" : "none",
   "objectives" : "<p>A repo in github that captures important lessons from this topic</p>",
     
@@ -186,7 +186,7 @@
   
   "type" : "github",
   "title" : "Github Repo  2 ",
-  "img" : "github-2-playlist-1/github.jpg",
+  "img" : "github.jpg",
   "videoid" : "none",
   "objectives" : "<p>Another repo in github that captures important lessons from this topic</p>",
     
@@ -209,7 +209,7 @@
   
   "type" : "web",
   "title" : "Web Site ",
-  "img" : "web-1/web.png",
+  "img" : "web.png",
   "videoid" : "",
   "objectives" : "<p>A web site of interest</p>",
     

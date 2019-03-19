@@ -6,7 +6,7 @@
   
   "type" : "course",
   "title" : " Course Title ",
-  "img" : "tutors-starter/course.jpg",
+  "img" : "course.jpg",
   "videoid" : "",
   "objectives" : "<p>A short description of the course. Normally this will not be visible, unless the course is aggregated into a portfolio of modules</p>",
     
@@ -16,7 +16,7 @@
       "folder" : "tutors-starter",
     
     
-      "link" : "tutors-starter/index.html",
+      "link" : "index.html",
     
   "los": [
      ]

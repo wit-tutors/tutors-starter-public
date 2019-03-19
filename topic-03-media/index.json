@@ -6,7 +6,7 @@
   
   "type" : "topic",
   "title" : " Media ",
-  "img" : "topic-03-media/topic.jpg",
+  "img" : "topic.jpg",
   "videoid" : "",
   "objectives" : "<p>Include 2 type of videos</p>",
     
@@ -16,7 +16,7 @@
       "folder" : "topic-03-media",
     
     
-      "link" : "topic-03-media/index.html",
+      "link" : "index.html",
     
   "los": [
      {
@@ -25,7 +25,7 @@
   
   "type" : "talk",
   "title" : "Lecture 5 ",
-  "img" : "talk-1/todo-review.jpg",
+  "img" : "todo-review.jpg",
   "videoid" : "BpwNfye_0Sg",
   "objectives" : "<p>This is a slide deck + an associated video</p>",
     
@@ -35,7 +35,7 @@
       "folder" : "talk-1",
     
     
-      "link" : "talk-1/todo-review.pdf",
+      "link" : "todo-review.pdf",
     
   "los": [
      ]
@@ -48,7 +48,7 @@
   
   "type" : "lab",
   "title" : "Lab-04",
-  "img" : "book-a/img/main.jpg",
+  "img" : "img/main.jpg",
   "videoid" : "none",
   "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
     
@@ -58,7 +58,7 @@
       "folder" : "book-a",
     
     
-      "link" : "book-a/index.html",
+      "link" : "index.html",
     
   "los": [
      ]
@@ -71,7 +71,7 @@
   
   "type" : "panelvideo",
   "title" : "12: Deployment ",
-  "img" : "panelvideo/",
+  "img" : "",
   "videoid" : "KFzl-Nhe1vs",
   "objectives" : "<p>12: Deployment</p>",
     
@@ -81,7 +81,7 @@
       "folder" : "panelvideo",
     
     
-      "link" : "panelvideo/KFzl-Nhe1vs",
+      "link" : "KFzl-Nhe1vs",
     
   "los": [
      ]
@@ -94,7 +94,7 @@
   
   "type" : "archive",
   "title" : "Resource I ",
-  "img" : "archive/archive.jpg",
+  "img" : "archive.jpg",
   "videoid" : "",
   "objectives" : "<p>This is not a pdf link, but a zipped archive. If it is selected the archive will be downloaded. Use this to distributed general resources.</p>",
     
@@ -104,7 +104,7 @@
       "folder" : "archive",
     
     
-      "link" : "archive/archive.zip",
+      "link" : "archive.zip",
     
   "los": [
      ]
