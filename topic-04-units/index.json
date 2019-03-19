@@ -1,157 +1,212 @@
-{
-  "properties": {},
-  "type": "topic",
-  "title": " Units ",
-  "img": "topic.jpg",
-  "videoid": "",
-  "objectives": "<p>This topic has 3 units - each unit has lectures + lab</p>",
-  "folder": "topic-04-units",
-  "link": "index.html",
+
+
+
+  {
+  
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : " Units ",
+  "img" : "topic.jpg",
+  "videoid" : "",
+  "objectives" : "<p>This topic has 3 units - each unit has lectures + lab</p>",
+  "folder" : "topic-04-units",
+  "link" : "index.html",
   "los": [
-    {
-      "properties": {},
-      "type": "unit",
-      "title": "Unit 1 Title ",
-      "img": "talk-1/talk-1.jpg",
-      "videoid": "",
-      "objectives": "",
-      "folder": "unit-1",
-      "link": "index.html",
-      "los": [
-        {
-          "properties": {},
-          "type": "talk",
-          "title": "Lecture 6 ",
-          "img": "talk-1.jpg",
-          "videoid": "none",
-          "objectives": "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-          "folder": "talk-1",
-          "link": "talk-1.pdf",
-          "los": [
-          ]
-        },
-        {
-          "properties": {},
-          "type": "talk",
-          "title": "Lecture 7 ",
-          "img": "talk-2.jpg",
-          "videoid": "none",
-          "objectives": "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-          "folder": "talk-2",
-          "link": "talk-2.pdf",
-          "los": [
-          ]
-        },
-        {
-          "properties": {},
-          "type": "lab",
-          "title": "Lab-05",
-          "img": "img/main.jpg",
-          "videoid": "none",
-          "objectives": "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-          "folder": "book-a",
-          "link": "index.html",
-          "los": [
-          ]
-        }
-      ]
-    },
-    {
-      "properties": {},
-      "type": "unit",
-      "title": "Unit 2 Title ",
-      "img": "talk-1/talk-1.jpg",
-      "videoid": "",
-      "objectives": "",
-      "folder": "unit-2",
-      "link": "index.html",
-      "los": [
-        {
-          "properties": {},
-          "type": "talk",
-          "title": "Lecture 8 ",
-          "img": "talk-1.jpg",
-          "videoid": "none",
-          "objectives": "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-          "folder": "talk-1",
-          "link": "talk-1.pdf",
-          "los": [
-          ]
-        },
-        {
-          "properties": {},
-          "type": "talk",
-          "title": "Lecture 9 ",
-          "img": "talk-2.jpg",
-          "videoid": "none",
-          "objectives": "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-          "folder": "talk-2",
-          "link": "talk-2.pdf",
-          "los": [
-          ]
-        },
-        {
-          "properties": {},
-          "type": "lab",
-          "title": "Lab-06",
-          "img": "img/main.jpg",
-          "videoid": "none",
-          "objectives": "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-          "folder": "book-a",
-          "link": "index.html",
-          "los": [
-          ]
-        }
-      ]
-    },
-    {
-      "properties": {},
-      "type": "unit",
-      "title": "Unit 3 Title ",
-      "img": "talk-1/talk-1.jpg",
-      "videoid": "",
-      "objectives": "",
-      "folder": "unit-3",
-      "link": "index.html",
-      "los": [
-        {
-          "properties": {},
-          "type": "talk",
-          "title": "Lecture 10 ",
-          "img": "talk-1.jpg",
-          "videoid": "none",
-          "objectives": "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-          "folder": "talk-1",
-          "link": "talk-1.pdf",
-          "los": [
-          ]
-        },
-        {
-          "properties": {},
-          "type": "talk",
-          "title": "Lecture 11 ",
-          "img": "talk-2.jpg",
-          "videoid": "none",
-          "objectives": "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
-          "folder": "talk-2",
-          "link": "talk-2.pdf",
-          "los": [
-          ]
-        },
-        {
-          "properties": {},
-          "type": "lab",
-          "title": "Lab-07",
-          "img": "img/main.jpg",
-          "videoid": "none",
-          "objectives": "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-          "folder": "book-a",
-          "link": "index.html",
-          "los": [
-          ]
-        }
-      ]
-    }
-  ]
-}
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Unit 1 Title ",
+  "img" : "talk-1/talk-1.jpg",
+  "videoid" : "",
+  "objectives" : "",
+  "folder" : "unit-1",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Lecture 6 ",
+  "img" : "talk-1.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
+  "folder" : "talk-1",
+  "link" : "talk-1.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Lecture 7 ",
+  "img" : "talk-2.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
+  "folder" : "talk-2",
+  "link" : "talk-2.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-05",
+  "img" : "img/main.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
+  "folder" : "book-a",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Unit 2 Title ",
+  "img" : "talk-1/talk-1.jpg",
+  "videoid" : "",
+  "objectives" : "",
+  "folder" : "unit-2",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Lecture 8 ",
+  "img" : "talk-1.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
+  "folder" : "talk-1",
+  "link" : "talk-1.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Lecture 9 ",
+  "img" : "talk-2.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
+  "folder" : "talk-2",
+  "link" : "talk-2.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-06",
+  "img" : "img/main.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
+  "folder" : "book-a",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Unit 3 Title ",
+  "img" : "talk-1/talk-1.jpg",
+  "videoid" : "",
+  "objectives" : "",
+  "folder" : "unit-3",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Lecture 10 ",
+  "img" : "talk-1.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
+  "folder" : "talk-1",
+  "link" : "talk-1.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Lecture 11 ",
+  "img" : "talk-2.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
+  "folder" : "talk-2",
+  "link" : "talk-2.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-07",
+  "img" : "img/main.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
+  "folder" : "book-a",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } 
+   ]
+
+  }
 

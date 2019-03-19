@@ -20,42 +20,38 @@
     {
       "type": "topic",
       "title": " Simple  ",
-      "img": "topic-01-simple/topic.jpg",
+      "img": "topic.jpg",
       "videoid": "",
       "objectives": "<p>Just lectures and labs</p>",
-      "properties": {},
       "folder": "topic-01-simple",
-      "link": "topic-01-simple/index.html"
+      "link": "index.html"
     },
     {
       "type": "topic",
       "title": " Varied ",
-      "img": "topic-02-varied/topic.jpg",
+      "img": "topic.jpg",
       "videoid": "",
       "objectives": "<p>Lectures &amp; labs + archive and github repos</p>",
-      "properties": {},
       "folder": "topic-02-varied",
-      "link": "topic-02-varied/index.html"
+      "link": "index.html"
     },
     {
       "type": "topic",
       "title": " Media ",
-      "img": "topic-03-media/topic.jpg",
+      "img": "topic.jpg",
       "videoid": "",
       "objectives": "<p>Include 2 type of videos</p>",
-      "properties": {},
       "folder": "topic-03-media",
-      "link": "topic-03-media/index.html"
+      "link": "index.html"
     },
     {
       "type": "topic",
       "title": " Units ",
-      "img": "topic-04-units/topic.jpg",
+      "img": "topic.jpg",
       "videoid": "",
       "objectives": "<p>This topic has 3 units - each unit has lectures + lab</p>",
-      "properties": {},
       "folder": "topic-04-units",
-      "link": "topic-04-units/index.html"
+      "link": "index.html"
     }
   ]
 }
