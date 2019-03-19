@@ -4,112 +4,79 @@
   {
   
   
+    "properties" : {},
+  
   "type" : "topic",
   "title" : " Media ",
   "img" : "topic.jpg",
   "videoid" : "",
   "objectives" : "<p>Include 2 type of videos</p>",
-    
-      "properties" : {},
-    
-    
-      "folder" : "topic-03-media",
-    
-    
-      "link" : "index.html",
-    
+  "folder" : "topic-03-media",
+  "link" : "index.html",
   "los": [
-     {
-      
-        
+   {
+    
+  
+    "properties" : {},
   
   "type" : "talk",
   "title" : "Lecture 5 ",
   "img" : "todo-review.jpg",
   "videoid" : "BpwNfye_0Sg",
   "objectives" : "<p>This is a slide deck + an associated video</p>",
-    
-      "properties" : {},
-    
-    
-      "folder" : "talk-1",
-    
-    
-      "link" : "todo-review.pdf",
-    
+  "folder" : "talk-1",
+  "link" : "todo-review.pdf",
   "los": [
-     ]
+   ]
 
-      
     } ,
    {
-      
-        
+    
+  
+    "properties" : {},
   
   "type" : "lab",
   "title" : "Lab-04",
   "img" : "img/main.jpg",
   "videoid" : "none",
   "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-    
-      "properties" : {},
-    
-    
-      "folder" : "book-a",
-    
-    
-      "link" : "index.html",
-    
+  "folder" : "book-a",
+  "link" : "index.html",
   "los": [
-     ]
+   ]
 
-      
     } ,
    {
-      
-        
+    
+  
+    "properties" : {},
   
   "type" : "panelvideo",
   "title" : "12: Deployment ",
   "img" : "",
   "videoid" : "KFzl-Nhe1vs",
   "objectives" : "<p>12: Deployment</p>",
-    
-      "properties" : {},
-    
-    
-      "folder" : "panelvideo",
-    
-    
-      "link" : "KFzl-Nhe1vs",
-    
+  "folder" : "panelvideo",
+  "link" : "KFzl-Nhe1vs",
   "los": [
-     ]
+   ]
 
-      
     } ,
    {
-      
-        
+    
+  
+    "properties" : {},
   
   "type" : "archive",
   "title" : "Resource I ",
   "img" : "archive.jpg",
   "videoid" : "",
   "objectives" : "<p>This is not a pdf link, but a zipped archive. If it is selected the archive will be downloaded. Use this to distributed general resources.</p>",
-    
-      "properties" : {},
-    
-    
-      "folder" : "archive",
-    
-    
-      "link" : "archive.zip",
-    
+  "folder" : "archive",
+  "link" : "archive.zip",
   "los": [
-     ]
+   ]
 
-      
     } 
    ]
 
