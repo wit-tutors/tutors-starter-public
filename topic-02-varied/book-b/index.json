@@ -6,7 +6,7 @@
   
   "type" : "lab",
   "title" : "Lab-02",
-  "img" : "img/main.jpg",
+  "img" : "book-b/img/main.jpg",
   "videoid" : "none",
   "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons. T</p>",
     
@@ -16,7 +16,7 @@
       "folder" : "book-b",
     
     
-      "link" : "index.html",
+      "link" : "book-b/index.html",
     
   "los": [
      ]
