@@ -295,7 +295,7 @@ html, body {
 <li><a href="#/04">Step 04</a></li>
 </ul>
 <p>More Code Block examples</p>
-<pre><code class="lang-java">  publish(path, course) {
+<pre><code>  publish(path, course) {
     const basePath = &#39;../&#39; + path + &#39;/&#39; + this.folder;
     futils.initEmptyPath(basePath);
 
@@ -313,7 +313,7 @@ html, body {
     this.publishLabs(basePath, course);
   }</code></pre>
 <p>This was autodetected as javascript. This one is html:</p>
-<pre><code class="lang-html">&lt;div class=&quot;ui segment pushable&quot;&gt;
+<pre><code>&lt;div class=&quot;ui segment pushable&quot;&gt;
   &lt;div class=&quot;ui inverted labeled icon left inline vertical sidebar menu&quot;&gt;
     {% for resource in course.allLabs.resources %}
       {% if resource.title == title %}
