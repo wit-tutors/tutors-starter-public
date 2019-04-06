@@ -4,7 +4,7 @@
   {
   
   
-    "properties" : {"highlightstyle":"railscasts","slack":"https://tutors-ts-group.slack.com/messages/CCKS0HR0Q","moodle":"https://moodle.wit.ie/course/view.php?id=118143&section=3","youtube":"https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo","courseurl":"https://wit-tutors.github.io/tutors-starter-public/","credits":"Your Name Here, WIT"},
+    "properties" : {"highlightstyle":"railscasts","slack":"https://tutors-ts-group.slack.com/messages/CCKS0HR0Q","moodle":"https://moodle.wit.ie/course/view.php?id=118143&section=3","youtube":"https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo","courseurl":"https://wit-tutors.github.io/tutors-starter-public/","credits":"Your Name Here, WIT","auth":"true"},
   
   "type" : "course",
   "title" : " Course Title ",
