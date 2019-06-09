@@ -54,7 +54,7 @@
   "title" : "Lecture 2 ",
   "img" : "talk-2.jpg",
   "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
+  "objectives" : "<p>The summary can indicate the lecture objectives of contents.</p>",
   "folder" : "talk-2",
   "link" : "talk-2.pdf",
   "los": [
