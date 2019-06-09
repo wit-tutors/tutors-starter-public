@@ -7,10 +7,10 @@
     "properties" : {},
   
   "type" : "lab",
-  "title" : "Lab-02",
-  "img" : "img/main.jpg",
+  "title" : "Lab-03",
+  "img" : "img/main.png",
   "videoid" : "none",
-  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons. T</p>",
+  "objectives" : "<p>Two labs in the same topic.</p>",
   "folder" : "book-b",
   "link" : "index.html",
   "los": [
@@ -20,8 +20,8 @@
   
     {
     "title": "# Objectives",
-    "shortTitle": "Lab-02",
-    "contentMd" : "# Objectives\n\nA few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons. T"
+    "shortTitle": "Lab-03",
+    "contentMd" : "# Objectives\n\nTwo labs in the same topic."
     },
   
     {
