@@ -38,7 +38,7 @@
   "title" : "Lecture 1 ",
   "img" : "talk-1.jpg",
   "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points.</p>",
+  "objectives" : "<p>A short summary of the talk, no more than two sentences.</p>",
   "folder" : "talk-1",
   "link" : "talk-1.pdf",
   "los": [
