@@ -38,7 +38,7 @@
   "title" : "Lecture 1 ",
   "img" : "talk-1.jpg",
   "videoid" : "none",
-  "objectives" : "<p>A short summary of the talk, no more than two sentences.</p>",
+  "objectives" : "<p>A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.</p>",
   "folder" : "talk-1",
   "link" : "talk-1.pdf",
   "los": [
@@ -291,10 +291,10 @@
     "properties" : {},
   
   "type" : "panelvideo",
-  "title" : "12: Deployment ",
+  "title" : "01: Overview ",
   "img" : "",
   "videoid" : "KFzl-Nhe1vs",
-  "objectives" : "<p>12: Deployment</p>",
+  "objectives" : "<p>01: Overview</p>",
   "folder" : "panelvideo",
   "link" : "KFzl-Nhe1vs",
   "los": [
