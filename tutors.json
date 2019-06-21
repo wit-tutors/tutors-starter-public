@@ -67,6 +67,7 @@
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
 
   
+    "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-1/talk-1.pdf",
   "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-1/talk-1.pdf"
   
 
@@ -91,6 +92,7 @@
   "summary" : "The summary can indicate the lecture objectives of contents.",
 
   
+    "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-2/talk-2.pdf",
   "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-2/talk-2.pdf"
   
 
@@ -164,6 +166,7 @@
   "summary" : "A flavour of the contents.",
 
   
+    "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-1/talk-1.pdf",
   "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-1/talk-1.pdf"
   
 
@@ -188,6 +191,7 @@
   "summary" : "Indicate what the talk is about.",
 
   
+    "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-2/talk-2.pdf",
   "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-2/talk-2.pdf"
   
 
@@ -407,6 +411,7 @@
   "summary" : "This is a slide deck + an associated video",
 
   
+    "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-03-media/talk-1/todo-review.pdf",
   "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-03-media/talk-1/todo-review.pdf"
   
 
@@ -555,6 +560,7 @@
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
 
   
+    "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-1/talk-1.pdf",
   "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-1/talk-1.pdf"
   
 
@@ -578,6 +584,7 @@
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
 
   
+    "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-2/talk-2.pdf",
   "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-2/talk-2.pdf"
   
 
@@ -649,6 +656,7 @@
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
 
   
+    "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-1/talk-1.pdf",
   "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-1/talk-1.pdf"
   
 
@@ -670,6 +678,7 @@
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
 
   
+    "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-2/talk-2.pdf",
   "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-2/talk-2.pdf"
   
 
@@ -739,6 +748,7 @@
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
 
   
+    "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-1/talk-1.pdf",
   "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-1/talk-1.pdf"
   
 
@@ -760,6 +770,7 @@
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
 
   
+    "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-2/talk-2.pdf",
   "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-2/talk-2.pdf"
   
 
