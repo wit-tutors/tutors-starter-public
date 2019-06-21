@@ -68,7 +68,7 @@
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-1/talk-1.pdf",
-  "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-1/talk-1.pdf"
+    "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-1/talk-1.pdf"
   
 
 
@@ -93,7 +93,7 @@
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-2/talk-2.pdf",
-  "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-2/talk-2.pdf"
+    "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-2/talk-2.pdf"
   
 
 
@@ -167,7 +167,7 @@
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-1/talk-1.pdf",
-  "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-1/talk-1.pdf"
+    "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-1/talk-1.pdf"
   
 
 
@@ -192,7 +192,7 @@
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-2/talk-2.pdf",
-  "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-2/talk-2.pdf"
+    "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-2/talk-2.pdf"
   
 
 
@@ -405,14 +405,14 @@
   "img" : "https://wit-tutors.github.io/tutors-starter-public/topic-03-media/talk-1/todo-review.jpg",
   
   
-    "video" : "http://www.youtube.com/watch?v=BpwNfye_0Sg",
+    "video" : "#/video/wit-tutors.github.io/tutors-starter-public/topic-03-media/talk-1/BpwNfye_0Sg",
   
 
   "summary" : "This is a slide deck + an associated video",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-03-media/talk-1/todo-review.pdf",
-  "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-03-media/talk-1/todo-review.pdf"
+    "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-03-media/talk-1/todo-review.pdf"
   
 
 
@@ -456,7 +456,7 @@
   "img" : "https://wit-tutors.github.io/tutors-starter-public/topic-03-media/panelvideo/",
   
   
-    "video" : "http://www.youtube.com/watch?v=KFzl-Nhe1vs",
+    "video" : "#/video/wit-tutors.github.io/tutors-starter-public/topic-03-media/panelvideo/KFzl-Nhe1vs",
   
 
   "summary" : "01: Overview",
@@ -554,14 +554,14 @@
   "img" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-1/talk-1.jpg",
   
   
-    "video" : "http://www.youtube.com/watch?v=BpwNfye_0Sg",
+    "video" : "#/video/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-1/BpwNfye_0Sg",
   
 
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-1/talk-1.pdf",
-  "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-1/talk-1.pdf"
+    "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-1/talk-1.pdf"
   
 
 
@@ -578,14 +578,14 @@
   "img" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-2/talk-2.jpg",
   
   
-    "video" : "http://www.youtube.com/watch?v=BpwNfye_0Sg",
+    "video" : "#/video/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-2/BpwNfye_0Sg",
   
 
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-2/talk-2.pdf",
-  "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-2/talk-2.pdf"
+    "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-2/talk-2.pdf"
   
 
 
@@ -650,14 +650,14 @@
   "img" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-1/talk-1.jpg",
   
   
-    "video" : "http://www.youtube.com/watch?v=BpwNfye_0Sg",
+    "video" : "#/video/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-1/BpwNfye_0Sg",
   
 
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-1/talk-1.pdf",
-  "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-1/talk-1.pdf"
+    "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-1/talk-1.pdf"
   
 
 
@@ -679,7 +679,7 @@
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-2/talk-2.pdf",
-  "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-2/talk-2.pdf"
+    "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-2/talk-2.pdf"
   
 
 
@@ -749,7 +749,7 @@
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-1/talk-1.pdf",
-  "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-1/talk-1.pdf"
+    "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-1/talk-1.pdf"
   
 
 
@@ -771,7 +771,7 @@
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-2/talk-2.pdf",
-  "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-2/talk-2.pdf"
+    "route" : "#talk/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-2/talk-2.pdf"
   
 
 
