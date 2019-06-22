@@ -23,6 +23,7 @@
   
 
   "summary" : "A short description of the course. Normally this will not be visible, unless the course is aggregated into a portfolio of modules",
+  "id": "tutors-starter",
 
   
     "route" : "#course/wit-tutors.github.io/tutors-starter-public/"
@@ -44,6 +45,7 @@
   
 
   "summary" : "Just lectures and labs",
+  "id": "topic-01-simple",
 
   
     "route" : "#topic/wit-tutors.github.io/tutors-starter-public/topic-01-simple"
@@ -65,6 +67,7 @@
   
 
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
+  "id": "talk-1",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-1/talk-1.pdf",
@@ -90,6 +93,7 @@
   
 
   "summary" : "The summary can indicate the lecture objectives of contents.",
+  "id": "talk-2",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-01-simple/talk-2/talk-2.pdf",
@@ -115,6 +119,7 @@
   
 
   "summary" : "A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.",
+  "id": "book-a",
 
   
     "route" : "#lab/wit-tutors.github.io/tutors-starter-public/topic-01-simple/book-a"
@@ -143,6 +148,7 @@
   
 
   "summary" : "Lectures & labs + archive and github repos",
+  "id": "topic-02-varied",
 
   
     "route" : "#topic/wit-tutors.github.io/tutors-starter-public/topic-02-varied"
@@ -164,6 +170,7 @@
   
 
   "summary" : "A flavour of the contents.",
+  "id": "talk-1",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-1/talk-1.pdf",
@@ -189,6 +196,7 @@
   
 
   "summary" : "Indicate what the talk is about.",
+  "id": "talk-2",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-02-varied/talk-2/talk-2.pdf",
@@ -214,6 +222,7 @@
   
 
   "summary" : "Another lab - summary here.",
+  "id": "book-a",
 
   
     "route" : "#lab/wit-tutors.github.io/tutors-starter-public/topic-02-varied/book-a"
@@ -238,6 +247,7 @@
   
 
   "summary" : "Two labs in the same topic.",
+  "id": "book-b",
 
   
     "route" : "#lab/wit-tutors.github.io/tutors-starter-public/topic-02-varied/book-b"
@@ -262,6 +272,7 @@
   
 
   "summary" : "This is a Panel Talk Object",
+  "id": "paneltalk",
 
   
     "route" : "static-site-gen.pdf"
@@ -286,6 +297,7 @@
   
 
   "summary" : "This is not a pdf link, but a zipped archive. If it is selected the archive will be downloaded. Use this to distributed general resources.",
+  "id": "archive",
 
   
     "route" : "https://wit-tutors.github.io/tutors-starter-public/topic-02-varied/archive/archive.zip"
@@ -310,6 +322,7 @@
   
 
   "summary" : "A repo in github that captures important lessons from this topic",
+  "id": "github-1-template-1",
 
   
     "route" : "https://github.com/wit-ict-summer-school-2017/glitch-template-1.git"
@@ -334,6 +347,7 @@
   
 
   "summary" : "Another repo in github that captures important lessons from this topic",
+  "id": "github-2-playlist-1",
 
   
     "route" : "https://github.com/wit-ict-summer-school-2017/glitch-template-1.git"
@@ -358,6 +372,7 @@
   
 
   "summary" : "A web site of interest",
+  "id": "web-1",
 
   
     "route" : "https://apiumhub.com/tech-blog-barcelona/definition-of-done-examples-software-projects/"
@@ -386,6 +401,7 @@
   
 
   "summary" : "Include 2 type of videos",
+  "id": "topic-03-media",
 
   
     "route" : "#topic/wit-tutors.github.io/tutors-starter-public/topic-03-media"
@@ -409,6 +425,7 @@
   
 
   "summary" : "This is a slide deck + an associated video",
+  "id": "talk-1",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-03-media/talk-1/todo-review.pdf",
@@ -434,6 +451,7 @@
   
 
   "summary" : "Just one lab in this topic.",
+  "id": "book-a",
 
   
     "route" : "#lab/wit-tutors.github.io/tutors-starter-public/topic-03-media/book-a"
@@ -460,6 +478,7 @@
   
 
   "summary" : "01: Overview",
+  "id": "panelvideo",
 
   
     "route" : "KFzl-Nhe1vs"
@@ -484,6 +503,7 @@
   
 
   "summary" : "This is not a pdf link, but a zipped archive. If it is selected the archive will be downloaded. Use this to distributed general resources.",
+  "id": "archive",
 
   
     "route" : "https://wit-tutors.github.io/tutors-starter-public/topic-03-media/archive/archive.zip"
@@ -512,6 +532,7 @@
   
 
   "summary" : "This topic has 3 units - each unit has lectures + lab",
+  "id": "topic-04-units",
 
   
     "route" : "#topic/wit-tutors.github.io/tutors-starter-public/topic-04-units"
@@ -533,6 +554,7 @@
   
 
   "summary" : "",
+  "id": "unit-1",
 
   
     "route" : "#topic/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1"
@@ -558,6 +580,7 @@
   
 
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
+  "id": "talk-1",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-1/talk-1.pdf",
@@ -582,6 +605,7 @@
   
 
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
+  "id": "talk-2",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/talk-2/talk-2.pdf",
@@ -604,6 +628,7 @@
   
 
   "summary" : "A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.",
+  "id": "book-a",
 
   
     "route" : "#lab/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-1/book-a"
@@ -629,6 +654,7 @@
   
 
   "summary" : "",
+  "id": "unit-2",
 
   
     "route" : "#topic/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2"
@@ -654,6 +680,7 @@
   
 
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
+  "id": "talk-1",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-1/talk-1.pdf",
@@ -676,6 +703,7 @@
   
 
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
+  "id": "talk-2",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/talk-2/talk-2.pdf",
@@ -698,6 +726,7 @@
   
 
   "summary" : "A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.",
+  "id": "book-a",
 
   
     "route" : "#lab/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-2/book-a"
@@ -723,6 +752,7 @@
   
 
   "summary" : "",
+  "id": "unit-3",
 
   
     "route" : "#topic/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3"
@@ -746,6 +776,7 @@
   
 
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
+  "id": "talk-1",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-1/talk-1.pdf",
@@ -768,6 +799,7 @@
   
 
   "summary" : "A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.",
+  "id": "talk-2",
 
   
     "pdf" : "https://wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/talk-2/talk-2.pdf",
@@ -790,6 +822,7 @@
   
 
   "summary" : "A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.",
+  "id": "book-a",
 
   
     "route" : "#lab/wit-tutors.github.io/tutors-starter-public/topic-04-units/unit-3/book-a"
