@@ -162,22 +162,6 @@
   
     "properties" : {},
   
-  "type" : "paneltalk",
-  "title" : "This is a Panel Talk Object ",
-  "img" : "static-site-gen.png",
-  "videoid" : "none",
-  "objectives" : "<p>This is a Panel Talk Object</p>",
-  "folder" : "paneltalk",
-  "link" : "static-site-gen.pdf",
-  "los": [
-   ]
-
-    } ,
-   {
-    
-  
-    "properties" : {},
-  
   "type" : "archive",
   "title" : "Resource I ",
   "img" : "archive.jpg",
