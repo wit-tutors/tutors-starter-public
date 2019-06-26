@@ -1,21 +1,6 @@
 
-
-
   {
-  
-  
-    "properties" : {},
-  
   "type" : "lab",
-  "title" : "Lab-03",
-  "img" : "img/main.png",
-  "videoid" : "none",
-  "objectives" : "<p>Two labs in the same topic.</p>",
-  "folder" : "book-b",
-  "link" : "index.html",
-  "los": [
-   ]
-,
   "chapters" : [
   
     {

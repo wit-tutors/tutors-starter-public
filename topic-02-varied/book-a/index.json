@@ -1,21 +1,6 @@
 
-
-
   {
-  
-  
-    "properties" : {},
-  
   "type" : "lab",
-  "title" : "Lab-02",
-  "img" : "img/main.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>Another lab - summary here.</p>",
-  "folder" : "book-a",
-  "link" : "index.html",
-  "los": [
-   ]
-,
   "chapters" : [
   
     {

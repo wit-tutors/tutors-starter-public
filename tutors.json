@@ -13,7 +13,7 @@
   
   
   
-    "properties" : {"highlightstyle":"railscasts","slack":"https://tutors-ts-group.slack.com/messages/CCKS0HR0Q","moodle":"https://moodle.wit.ie/course/view.php?id=118143&section=3","youtube":"https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo","courseurl":"https://wit-tutors.github.io/tutors-starter-public/","credits":"Your Name Here, WIT","auth":"true","basecourseurl":"wit-tutors.github.io/tutors-starter-public/"}
+    "properties" : {"slack":"https://tutors-ts-group.slack.com/messages/CCKS0HR0Q","moodle":"https://moodle.wit.ie/course/view.php?id=118143&section=3","youtube":"https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo","highlightstyle":"railscasts","courseurl":"https://wit-tutors.github.io/tutors-starter-public/","credits":"Your Name Here, WIT","auth":"true","basecourseurl":"wit-tutors.github.io/tutors-starter-public/"}
   
 ,
   "type" : "course",
@@ -245,6 +245,29 @@
     "properties" : {}
   
 ,
+  "type" : "paneltalk",
+  "title" : "This is a Panel Talk Object ",
+  "img" : "https://wit-tutors.github.io/tutors-starter-public/topic-02-varied/paneltalk/static-site-gen.png",
+  
+  
+
+  "summary" : "This is a Panel Talk Object",
+  "id": "paneltalk",
+  
+    "route" : "static-site-gen.pdf"
+  
+
+    
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
   "type" : "archive",
   "title" : "Resource I ",
   "img" : "https://wit-tutors.github.io/tutors-starter-public/topic-02-varied/archive/archive.jpg",
@@ -423,7 +446,7 @@
   "summary" : "01: Overview",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-starter-public/topic-03-media/panelvideo/KFzl-Nhe1vs"
+    "route" : "KFzl-Nhe1vs"
   
 
     

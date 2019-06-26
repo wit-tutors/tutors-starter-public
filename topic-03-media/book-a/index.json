@@ -1,21 +1,6 @@
 
-
-
   {
-  
-  
-    "properties" : {},
-  
   "type" : "lab",
-  "title" : "Lab-04",
-  "img" : "img/main.jpg",
-  "videoid" : "none",
-  "objectives" : "<p>Just one lab in this topic.</p>",
-  "folder" : "book-a",
-  "link" : "index.html",
-  "los": [
-   ]
-,
   "chapters" : [
   
     {

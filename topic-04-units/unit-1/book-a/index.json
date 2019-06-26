@@ -1,21 +1,6 @@
 
-
-
   {
-  
-  
-    "properties" : {},
-  
   "type" : "lab",
-  "title" : "Lab-05",
-  "img" : "img/main.png",
-  "videoid" : "none",
-  "objectives" : "<p>A few sentences on the purpose of the lab. Avoid bullet points here for formatting reasons.</p>",
-  "folder" : "book-a",
-  "link" : "index.html",
-  "los": [
-   ]
-,
   "chapters" : [
   
     {
